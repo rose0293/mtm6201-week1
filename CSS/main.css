@@ -1,0 +1,61 @@
+*{
+    background-color: #7D80DA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: #262626;
+    color: white;
+    padding-left: 20px;
+}
+
+.wrapper{
+    margin-top: 25px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#abhinav-img {
+    float: left;
+    max-width: 150px;
+    height: auto;
+    padding-right: 20px;
+}
+
+.dl, dt{
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+.dl, dd{
+    margin: 0%;
+}
+
+.dl, dt, dd{
+    background-color: #262626;
+    color: white;
+
+}
+
+dt:nth-child(1){
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+dt:nth-child(3), dt:nth-child(5){
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+dd:nth-child(2), dd:nth-child(4){
+    padding-left: 20px;
+}
+
+dd:nth-child(6){
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+p{
+    padding-bottom: 20px;
+}
